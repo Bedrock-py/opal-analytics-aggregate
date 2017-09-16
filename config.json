@@ -1,0 +1,12 @@
+{ "opal-analytics-summarize":
+        {
+    	    "description": "Summary statistics for a matrix with optional group by clause",
+            "units": "",
+            "supports": "",
+            "python_dependencies": "pandas",
+            "system_dependencies": "",
+            "api": "analytics",
+            "interface": "analytics",
+            "installation_script": ""
+        }
+}
